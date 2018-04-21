@@ -12,4 +12,4 @@ async def on_ready():
 async def hey():
     await bot.say('Sup')
 
-bot.run('NDM2NDIyNTYxMzI5MzE1ODQy.DbnRyA.fYXCcxAOIoes0YGrzynt-A6n1WY')
+#bot.run('')
